@@ -19,14 +19,23 @@ A curated list of art learning and related resources. Everyone is making awesome
 
 [Artstation](https://www.artstation.com/) - Mostly for pros, but some beginners are on there too
 
+[Pixilart](https://www.pixilart.com/) - Online pixel art community, also an online pixel art editor
+
 ## Tools
 ### 2D
 
-[PhotoPea](https://www.photopea.com/) - A free Photoshop alternative that runs in your browser
+:free: :computer: [PhotoPea](https://www.photopea.com/) - A free Photoshop alternative that runs in your browser
 
-[GIMP](https://www.gimp.org/) - A free Photoshop alternative that doesn't run in your browser (and is hated by many but is actually not that bad and has improved dramatically over the past few years - don't bash it till you try it!)
+:free: [GIMP](https://www.gimp.org/) - A free Photoshop alternative that doesn't run in your browser (and is hated by many but is actually not that bad and has improved dramatically over the past few years - don't bash it till you try it!)
+
+#### Pixel Art
+
+:free: :computer: [Pixilart](https://www.pixilart.com/) - Online pixel art editor, also an online pixel art community 
 
 ### 3D
 
 :free: [Blender](https://www.blender.org/) - The best 3D program, change my mind
 
+:free: [Neobarok](http://neobarok.com/) - Unorthodox, but may be what you are looking for!
+
+:free: [MagicaVoxel](http://ephtracy.github.io/) - For all your voxel needs!
