@@ -13,6 +13,8 @@ A curated list of art learning and related resources. Everyone is making awesome
 
 [Proko](https://www.youtube.com/user/ProkoTV) - Anatomy and figure drawing lessons
 
+[Ed Tadeo](https://www.youtube.com/channel/UCOC_wMoswQRn87WtSQ1DH3g) - Fantastic animator working primarily in Krita
+
 ## Communities
 
 [DeviantArt](https://www.deviantart.com/) - Mostly for beginners, but some pros are on there too
@@ -24,6 +26,8 @@ A curated list of art learning and related resources. Everyone is making awesome
 ## Tools
 ### 2D
 
+:free: [Krita](https://krita.org/en/) - A fantastic free and open source digital painting program. You can animate in it too!
+ 
 :free: :computer: [PhotoPea](https://www.photopea.com/) - A free Photoshop alternative that runs in your browser
 
 :free: [GIMP](https://www.gimp.org/) - A free Photoshop alternative that doesn't run in your browser (and is hated by many but is actually not that bad and has improved dramatically over the past few years - don't bash it till you try it!)
