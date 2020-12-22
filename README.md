@@ -23,6 +23,8 @@ A curated list of art learning and related resources. Everyone is making awesome
 
 [Pixilart](https://www.pixilart.com/) - Online pixel art community, also an online pixel art editor
 
+[Polycount](https://polycount.com/) - A community for game artists, 2D and 3D
+
 ## Tools
 ### 2D
 
