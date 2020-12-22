@@ -7,6 +7,8 @@ A curated list of art learning and related resources. Everyone is making awesome
 
 [Ctrl+Paint](https://www.ctrlpaint.com/) - Short and to the point video tutorials on digital painting and related subjects
 
+[Drawsh](http://www.drawsh.com/) - A free art learning resource
+
 ## YouTube Channels
 
 [New Masters Academy](https://www.youtube.com/user/NewMastersAcademy) - Traditional art and pose drawing references
