@@ -9,6 +9,8 @@ A curated list of art learning and related resources. Everyone is making awesome
 
 [Drawsh](http://www.drawsh.com/) - A free art learning resource
 
+[Angry Animator](https://www.angryanimator.com/word/) - A blog/personal site of Dermot O Connor, an animator, among other things, with opinions and resources
+
 ## YouTube Channels
 
 [New Masters Academy](https://www.youtube.com/user/NewMastersAcademy) - Traditional art and pose drawing references
