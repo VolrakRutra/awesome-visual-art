@@ -11,6 +11,8 @@ A curated list of art learning and related resources. Everyone is making awesome
 
 [Angry Animator](https://www.angryanimator.com/word/) - A blog/personal site of Dermot O Connor, an animator, among other things, with opinions and resources
 
+[watercolor basics](https://github.com/tombetthauser/watercolor-basics) - A collection of watercolor tips you can peruse right here on GitHub! Isn't this awesome? Creator of that doc [tombetthauser](https://github.com/tombetthauser) has more cool stuff to check out, do it! 
+
 ## YouTube Channels
 
 [New Masters Academy](https://www.youtube.com/user/NewMastersAcademy) - Traditional art and pose drawing references
